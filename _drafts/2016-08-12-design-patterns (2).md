@@ -2,7 +2,7 @@
 layout: post
 title:  "Design Patterns with Head First (2)"
 date:   2016-08-12 00:15:00 +0900
-categories: design patterns
+categories: design-pattern
 ---
 
 # 12. 패턴들로 이루어진 패턴: 컴파운드 패턴 (Compound Pattern)

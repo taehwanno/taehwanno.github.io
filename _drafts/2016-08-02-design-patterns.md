@@ -2,7 +2,7 @@
 layout: post
 title:  "Design Patterns with Head First"
 date:   2016-08-02 20:32:00 +0900
-categories: design patterns
+categories: design-pattern
 ---
 
 헤드퍼스트를 통한 디자인 패턴 공부 시작
