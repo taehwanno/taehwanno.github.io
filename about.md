@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+노태환 (Taehwan, No)  
+로아팩토리 개발자  
+부산 거주중  
+C/C++, JAVA  
+HTML, CSS, javascript, jQuery, angular.js 1.XX
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+> "어떻게"보다는 "왜"에 중심을 두고 개발 및 공부를 하고 있습니다.
