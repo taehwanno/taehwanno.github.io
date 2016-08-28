@@ -16,5 +16,7 @@
     {% include footer.html %}
 
   </body>
-
+  {% if jekyll.environment == 'production' %}
+  {% include google-analytics.html %}
+  {% endif %}
 </html>
