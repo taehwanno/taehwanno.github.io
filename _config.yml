@@ -19,3 +19,6 @@ github_username:  taehwanno
 
 # Build settings
 markdown: kramdown
+
+# Output Formatting settings
+permalink: /post/:categories/:year/:month/:day/:title
