@@ -11,8 +11,8 @@ email: taehwanno.dev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   기술과 개발 그리고 그 외의 것들에 대한 개인적인 경험, 생각을 담아냅니다.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://taehwanno.github.io" # the base hostname & protocol for your site
-github_username:  taehwanno
+url: "https://taehwanno.github.io" # the base hostname & protocol for your site
+github_username: taehwanno
 
 # Build settings
 markdown: kramdown
