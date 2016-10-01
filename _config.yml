@@ -18,4 +18,4 @@ github_username: taehwanno
 markdown: kramdown
 
 # Output Formatting settings
-permalink: /post/:categories/:year/:month/:title
+permalink: /post/:year/:month/:title
