@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "git push --force"
+title: "git push --force를 통한 히스토리 관리"
 date: 2016-10-01 14:55:00 +0900
 categories: VCS
 description: 커밋 히스토리 관리를 위한 위험할 수도 있는 실험
